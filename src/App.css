@@ -31,3 +31,9 @@ address{
 .navbar-dark {
     background-color: #512DA8;
 }
+
+.leader-discrip {
+    
+    max-height: 150px;
+    overflow: scroll;
+}
